@@ -1,5 +1,5 @@
-# node-tls
-TLS server in Node.js
+# node-mtls
+mTLS server in Node.js that authenticates requests using X.509 client certificate.
 
 ## Generate client & server certificates
 
